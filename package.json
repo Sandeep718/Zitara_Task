@@ -1,0 +1,11 @@
+{
+  "name": "zithara-task-main",
+  "version": "1.0.0",
+  "description": "This repository contains a React and Node.js application with a PostgreSQL database, built to fulfill the following functionality:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
